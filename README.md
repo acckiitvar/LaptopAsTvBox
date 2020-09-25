@@ -6,4 +6,4 @@ In normal situation this causes going to sleep (S3) or you previously need to ch
 This application detects changing displays count and if there are more then one applies
 "do nothing" lid action.
 
-P.S. C3 is not my primary programming language, so source code may be not optimum.
+P.S. C# is not my primary programming language, so source code may be not very good.
